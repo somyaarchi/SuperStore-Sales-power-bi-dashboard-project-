@@ -2,6 +2,7 @@
 
 OBJECTIVE 
 To Contribute to the sucess of a business by utilizing Data analysis techiniques, specifically focusing on time series analysis,to provide valuable insights and accurate sales forecasting.
+
 DESCRIPTION
 
 
